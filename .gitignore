@@ -1,0 +1,10 @@
+node_modules/
+.env
+data/
+*.xlsx
+*.csv
+firebase-service-account.json
+dist/
+.firebase/
+firebase-debug.log
+firestore-debug.log
